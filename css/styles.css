@@ -1,0 +1,64 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.container {
+  text-align: center;
+}
+
+#nav {
+  margin-top: 60px;
+  text-align: center;
+}
+
+#nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+#nav li {
+  display: inline;
+}
+
+#nav a {
+  color: black;
+}
+
+#nav p {
+  display: inline;
+}
+
+#map {
+  margin-top: 75px;
+  text-align: left;
+}
+
+#map-area {
+  text-align: left;
+}
+
+#news {
+  margin-top: 50px;
+}
+
+#news-container {
+  text-align: left;
+  list-style-type: none;
+}
+
+#news h4 {
+  margin-bottom: 20px;
+}
+
+#videos {
+  margin-top: 20px;
+  margin-left: 60px;
+}
+
+#videos h4 {
+  display: block;
+}
+
+#footer {
+  margin-top: 40px;
+}
